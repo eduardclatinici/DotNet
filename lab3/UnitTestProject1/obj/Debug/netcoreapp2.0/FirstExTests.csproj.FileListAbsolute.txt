@@ -1,0 +1,16 @@
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\FirstExTests.deps.json
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\FirstExTests.runtimeconfig.json
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\FirstExTests.runtimeconfig.dev.json
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\FirstExTests.dll
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\FirstExTests.pdb
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\FirstEx.dll
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\bin\Debug\netcoreapp2.0\FirstEx.pdb
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\obj\Debug\netcoreapp2.0\FirstExTests.csprojResolveAssemblyReference.cache
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\obj\Debug\netcoreapp2.0\FirstExTests.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\obj\Debug\netcoreapp2.0\FirstExTests.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\obj\Debug\netcoreapp2.0\FirstExTests.AssemblyInfo.cs
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\obj\Debug\netcoreapp2.0\FirstExTests.dll
+C:\Users\eduard\source\repos\lab3\UnitTestProject1\obj\Debug\netcoreapp2.0\FirstExTests.pdb

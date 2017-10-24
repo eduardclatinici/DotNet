@@ -1,0 +1,16 @@
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\SecondEx.dll
+C:\Users\eduard\source\repos\lab3\SecondExTests\obj\Debug\netcoreapp2.0\SecondExTests.csprojResolveAssemblyReference.cache
+C:\Users\eduard\source\repos\lab3\SecondExTests\obj\Debug\netcoreapp2.0\SecondExTests.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\lab3\SecondExTests\obj\Debug\netcoreapp2.0\SecondExTests.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\lab3\SecondExTests\obj\Debug\netcoreapp2.0\SecondExTests.AssemblyInfo.cs
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\SecondExTests.deps.json
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\SecondExTests.runtimeconfig.json
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\SecondExTests.runtimeconfig.dev.json
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\SecondExTests.dll
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\SecondExTests.pdb
+C:\Users\eduard\source\repos\lab3\SecondExTests\bin\Debug\netcoreapp2.0\SecondEx.pdb
+C:\Users\eduard\source\repos\lab3\SecondExTests\obj\Debug\netcoreapp2.0\SecondExTests.dll
+C:\Users\eduard\source\repos\lab3\SecondExTests\obj\Debug\netcoreapp2.0\SecondExTests.pdb

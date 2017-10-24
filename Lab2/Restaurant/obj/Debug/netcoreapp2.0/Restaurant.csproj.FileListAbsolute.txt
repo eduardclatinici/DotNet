@@ -1,0 +1,9 @@
+C:\Users\eduard\source\repos\Lab2\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.deps.json
+C:\Users\eduard\source\repos\Lab2\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.dll
+C:\Users\eduard\source\repos\Lab2\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\eduard\source\repos\Lab2\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\Lab2\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\Lab2\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.AssemblyInfo.cs
+C:\Users\eduard\source\repos\Lab2\Restaurant\bin\Debug\netcoreapp2.0\Restaurant.pdb
+C:\Users\eduard\source\repos\Lab2\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.dll
+C:\Users\eduard\source\repos\Lab2\Restaurant\obj\Debug\netcoreapp2.0\Restaurant.pdb

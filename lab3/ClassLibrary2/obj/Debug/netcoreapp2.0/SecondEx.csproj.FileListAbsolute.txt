@@ -1,0 +1,9 @@
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\bin\Debug\netcoreapp2.0\SecondEx.deps.json
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\bin\Debug\netcoreapp2.0\SecondEx.dll
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\bin\Debug\netcoreapp2.0\SecondEx.pdb
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\obj\Debug\netcoreapp2.0\SecondEx.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\obj\Debug\netcoreapp2.0\SecondEx.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\obj\Debug\netcoreapp2.0\SecondEx.AssemblyInfo.cs
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\obj\Debug\netcoreapp2.0\SecondEx.dll
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\obj\Debug\netcoreapp2.0\SecondEx.pdb
+C:\Users\eduard\source\repos\lab3\ClassLibrary2\obj\Debug\netcoreapp2.0\SecondEx.csprojResolveAssemblyReference.cache

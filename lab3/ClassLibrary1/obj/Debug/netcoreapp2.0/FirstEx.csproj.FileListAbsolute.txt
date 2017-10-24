@@ -1,0 +1,9 @@
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\bin\Debug\netcoreapp2.0\FirstEx.deps.json
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\bin\Debug\netcoreapp2.0\FirstEx.dll
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\bin\Debug\netcoreapp2.0\FirstEx.pdb
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\obj\Debug\netcoreapp2.0\FirstEx.csprojResolveAssemblyReference.cache
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\obj\Debug\netcoreapp2.0\FirstEx.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\obj\Debug\netcoreapp2.0\FirstEx.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\obj\Debug\netcoreapp2.0\FirstEx.AssemblyInfo.cs
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\obj\Debug\netcoreapp2.0\FirstEx.dll
+C:\Users\eduard\source\repos\lab3\ClassLibrary1\obj\Debug\netcoreapp2.0\FirstEx.pdb

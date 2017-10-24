@@ -1,0 +1,16 @@
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\XUnitTestLab1.deps.json
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\XUnitTestLab1.runtimeconfig.json
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\XUnitTestLab1.runtimeconfig.dev.json
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\XUnitTestLab1.dll
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\XUnitTestLab1.pdb
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\Lab1.dll
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\bin\Debug\netcoreapp2.0\Lab1.pdb
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\obj\Debug\netcoreapp2.0\XUnitTestLab1.csprojResolveAssemblyReference.cache
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\obj\Debug\netcoreapp2.0\XUnitTestLab1.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\obj\Debug\netcoreapp2.0\XUnitTestLab1.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\obj\Debug\netcoreapp2.0\XUnitTestLab1.AssemblyInfo.cs
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\obj\Debug\netcoreapp2.0\XUnitTestLab1.dll
+C:\Users\eduard\source\repos\Lab1\XUnitTestLab1\obj\Debug\netcoreapp2.0\XUnitTestLab1.pdb

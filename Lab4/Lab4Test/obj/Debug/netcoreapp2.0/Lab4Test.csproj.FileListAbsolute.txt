@@ -1,0 +1,16 @@
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Lab4.dll
+C:\Users\eduard\source\repos\Lab4\Lab4Test\obj\Debug\netcoreapp2.0\Lab4Test.csprojResolveAssemblyReference.cache
+C:\Users\eduard\source\repos\Lab4\Lab4Test\obj\Debug\netcoreapp2.0\Lab4Test.csproj.CoreCompileInputs.cache
+C:\Users\eduard\source\repos\Lab4\Lab4Test\obj\Debug\netcoreapp2.0\Lab4Test.AssemblyInfoInputs.cache
+C:\Users\eduard\source\repos\Lab4\Lab4Test\obj\Debug\netcoreapp2.0\Lab4Test.AssemblyInfo.cs
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Lab4Test.deps.json
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Lab4Test.runtimeconfig.json
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Lab4Test.runtimeconfig.dev.json
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Lab4Test.dll
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Lab4Test.pdb
+C:\Users\eduard\source\repos\Lab4\Lab4Test\bin\Debug\netcoreapp2.0\Lab4.pdb
+C:\Users\eduard\source\repos\Lab4\Lab4Test\obj\Debug\netcoreapp2.0\Lab4Test.dll
+C:\Users\eduard\source\repos\Lab4\Lab4Test\obj\Debug\netcoreapp2.0\Lab4Test.pdb
